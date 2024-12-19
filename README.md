@@ -1,0 +1,1 @@
+Based on [aergus/latex](https://gitlab.com/aergus/dockerfiles/-/blob/master/latex/Dockerfile)
